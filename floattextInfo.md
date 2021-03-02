@@ -2,7 +2,7 @@
   "appId" : "",
   "version" : "1.0.0",
   "isadsfirst":"true",
-  "isguoqi":"true",
+  "isguoqi":"false",
   "ischkfirst":"false",
   "iscommforul":"false",
   "iscommfortime":"false",
