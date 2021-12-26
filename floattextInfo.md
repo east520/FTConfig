@@ -5,5 +5,5 @@
   "isguoqi":"true",
   "ischkfirst":"false",
   "iscommforul":"false",
-  "iscommfortime":"false",
+  "iscommfortime":"true",
 }</span>
